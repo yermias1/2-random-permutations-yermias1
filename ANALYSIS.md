@@ -2,7 +2,7 @@
 
 ## Algorithm 1
 
-Your test results and analysis here...
+Your test results and analysis here...For the positions in the array, the algorithm generates random numbers and searches all prior filled positions to avoid duplicates. The 
 
 ## Algorithm 2
 
